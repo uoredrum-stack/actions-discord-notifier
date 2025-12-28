@@ -11,7 +11,7 @@ You can post status of Github Actions when completed to Discord.
 - name: Run Discord Notify action
   uses: PingChunChung/actions-discord-notifier
   with:
-      webhook: ${{ secrets.DISCORD_WEBHOOK_URL }}
+      webhook: ${{ secrets.https://discord.gg/9K4WjdNfxF }}
 ```
 
 You can use these inputs
